@@ -1,5 +1,5 @@
 body {
-  background-color: #ff0000;
+  background-color: #000000;
   color: #0000FF;
 }
 
@@ -49,4 +49,21 @@ article {
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 2em; /* 32px */
+  line-height: 3;
+}
+
+p {
+  font-size: 100%; /* 16px */
+  line-height: 1.8;
+}
+a:link {
+  text-decoration: none;
 }
