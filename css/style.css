@@ -1,10 +1,10 @@
 body {
   background-color: #000000;
-  color: #0000FF;
+  color: #a2b7d8;
 }
 
 nav {
-  background-color: rgba(0,0,0,.5);
+  background-color: #42351f;
   float: left;
   position: fixed;
   width: 100%;
@@ -62,8 +62,13 @@ h1 {
 
 p {
   font-size: 100%; /* 16px */
-  line-height: 1.8;
+  line-height: 1.5;
 }
 a:link {
   text-decoration: none;
+  color:#a2b7d8;
+}
+
+a:hover{
+  color:#0070BC
 }
